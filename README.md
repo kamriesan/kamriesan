@@ -1,15 +1,15 @@
 <h1 align="center">Hello world, I'm Kamrie!</h1>
-<h3 align="center">A frustrated Computer Science student from the Philippines 🇵🇭 </h3>
+<h3 align="center">A frustrated Computer Science student from the Philippines.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kamriesan&label=Profile%20views&color=ffffff&style=flat" alt="kamriesan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kamriesan&label=Profile%20views&color=000000&style=flat" alt="kamriesan" /> </p>
 
-🌱 I’m currently learning **DSA, OOP and how to center a div (✿◠‿◠)**
+- 🌱 I’m currently learning **DSA, OOP, and how to center a div (✿◠‿◠)**
 
-🤝 I’m looking for help with **landing a career in Computer Science :)**
+- 🤝 I’m looking for help with **landing a career in Computer Science :)**
 
-👨‍💻 All of my projects are available [here](https://github.com/kamriesan?tab=repositories).
+- 👨‍💻 All of my projects are available [here](https://github.com/kamriesan?tab=repositories).
 
-⚡ Fun fact **I spend most of my time watching American TV Series.**
+- ⚡ Fun fact **I spend most of my time watching American TV Series.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
