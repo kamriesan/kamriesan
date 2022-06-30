@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available [here](https://github.com/kamriesan?tab=repositories).
 
-- ⚡ Fun fact **I spend most of my time watching American TV Series.**
+- ⚡ Fun fact **I spend most of my me-time watching American TV Series!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
