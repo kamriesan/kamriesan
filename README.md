@@ -1,5 +1,5 @@
 <h1 align="center">Hello world, I'm Kamrie!</h1>
-<h3 align="center">A frustrated Computer Science student from the Philippines.</h3>
+<h3 align="center">A budding Software Engineer from the Philippines.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamriesan&label=Profile%20views&color=000000&style=flat" alt="kamriesan" /> </p>
 
