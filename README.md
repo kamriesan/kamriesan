@@ -5,11 +5,13 @@
 
 - 🌱 I’m currently learning **DSA, OOP, and how to center a div (✿◠‿◠)**
 
+- 👯 I’m looking to collaborate on **any fun project CS-related.**
+
 - 🤝 I’m looking for help with **landing a career in Computer Science :)**
 
-- 👨‍💻 All of my projects are available [here](https://github.com/kamriesan?tab=repositories).
+- 👨‍💻 All of my projects are available at [https://github.com/kamriesan?tab=repositories](https://github.com/kamriesan?tab=repositories)
 
-- ⚡ Fun fact **I spend most of my me-time watching American TV Series!**
+- ⚡ Fun fact **I spend most of my time watching American TV Series.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
