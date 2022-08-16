@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamriesan&label=Profile%20views&color=000000&style=flat" alt="kamriesan" /> </p>
 
-- 🌱 I’m currently learning **DSA, OOP, and how to center a div (✿◠‿◠)**
+- 🌱 I’m currently learning **web dev (✿◠‿◠)**
 
 - 👯 I’m looking to collaborate on **any fun project CS-related.**
 
